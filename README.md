@@ -4,7 +4,7 @@ CSCI 1360: Foundations for Informatics and Analytics
 ## Important Dates
 
  - Released: 2022-03-24 at 09:00 pm
- - Deadline: 2022-03-30 at 11:59 pm
+ - Deadline: 2022-03-31 at 11:59 pm
  
  ## Grading Breakdown
 
